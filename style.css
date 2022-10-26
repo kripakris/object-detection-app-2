@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link{
+    font-size: 19px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.header
+{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
